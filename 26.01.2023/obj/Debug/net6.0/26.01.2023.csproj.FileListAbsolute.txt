@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\bin\Debug\net6.0\26.01.2023.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\bin\Debug\net6.0\26.01.2023.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\bin\Debug\net6.0\26.01.2023.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\bin\Debug\net6.0\26.01.2023.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\bin\Debug\net6.0\26.01.2023.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\refint\26.01.2023.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\26.01.2023.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\26.01.2023\26.01.2023\obj\Debug\net6.0\ref\26.01.2023.dll
